@@ -1,0 +1,12 @@
+# Amanda Operations Tracker data
+TimeBlocks.json
+
+# Log files
+*.log
+
+# Visual Studio Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
